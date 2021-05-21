@@ -38,7 +38,6 @@
           Source: 
           [<a href="https://www.oreilly.com/library/view/introduction-to-machine/9781449369880/" target="_blank">Book</a>]
           [<a href="">Repo</a>]
-          [<a >Certificate</a>]
         </p>
     </ul>
   
