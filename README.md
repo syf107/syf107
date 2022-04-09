@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Syarief Arifin</h1>
 <h3 align="center">
-  A passionate frontend developer from Indonesia. I'm a career switcher and
+  A passionate web developer from Indonesia. I'm a career switcher and
   looking for a first tech job as software engineer.
 </h3>
 
