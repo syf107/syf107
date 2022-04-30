@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [Pokemon API](under construction) 
 - 🌱 I’m currently learning **React & NodeJS from John Smilga's Course.** 
-- 👨‍💻 All of my projects are available at [https://dev-portfolio-syarief.netlify.app/](https://dev-portfolio-syarief.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://syariefarifin.netlify.app/](https://syariefarifin.netlify.app/)
 - 📝 I regularly write articles on [https://hashnode.com/@syf107](https://hashnode.com/@syf107) 
 - 📫 How to reach me **syariefarifin107@gmail.com** 
 - 📄 Know about my experiences [under construction](under construction)
