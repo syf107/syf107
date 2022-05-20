@@ -12,7 +12,7 @@
 </p>
 
 - 🔭 I’m currently working on [Pokemon API](https://pokemon-log-details-api.netlify.app/) 
-- 🌱 I’m currently learning **React & NodeJS from John Smilga's Course.** 
+- 🌱 I’m currently learning **React from John Smilga's Course & Shopify Theme Development** 
 - 👨‍💻 All of my projects are available at [https://syariefarifin.netlify.app/](https://syariefarifin.netlify.app/)
 - 📝 I regularly write articles on [https://hashnode.com/@syf107](https://hashnode.com/@syf107) 
 - 📫 How to reach me **syariefarifin107@gmail.com** 
