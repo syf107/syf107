@@ -11,7 +11,7 @@
   />
 </p>
 
-- 🔭 I’m currently working on [Pokemon API](under construction) 
+- 🔭 I’m currently working on [Pokemon API](https://pokemon-log-details-api.netlify.app/) 
 - 🌱 I’m currently learning **React & NodeJS from John Smilga's Course.** 
 - 👨‍💻 All of my projects are available at [https://syariefarifin.netlify.app/](https://syariefarifin.netlify.app/)
 - 📝 I regularly write articles on [https://hashnode.com/@syf107](https://hashnode.com/@syf107) 
